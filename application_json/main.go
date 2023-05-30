@@ -20,7 +20,7 @@ const (
 	accessKeySecret = "accessKey(请替换为正确的accessKeySecret)"
 	appCode         = "appCode(请替换为正确的appCode)"
 	channelCode     = "channelCode(请替换为正确的channelCode)"
-	audioFilePath   = "audio/BAC009S0002W0164.wav"
+	audioFilePath   = "audio/ARITY2023S001W0001.wav"
 )
 
 // ResponseData http 返回实体
